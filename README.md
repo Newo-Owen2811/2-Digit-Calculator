@@ -1,2 +1,2 @@
-# 2-Digit-Calculator
-2 digit Calculator
+# Python 2 digit Calculator
+A simple calculator built to practice functions and loops.
